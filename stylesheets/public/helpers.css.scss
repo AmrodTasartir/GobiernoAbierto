@@ -147,28 +147,28 @@ $player_window_height: 320px;
 $textColor: #465866;
 
 /* Open Irekia */
-$colorIrekia: #b13f00;
-$blueNav: #5a5a5a;
-$blueNavHover: #777;
+$colorIrekia: #e8561f;
+$blueNav: #f6a21f;/*a*/
+$blueNavHover: #e8561f; /*Over*/
 
 $blueDarkNav: #EB6F1F;
 $blueDarkNavHover: #555;
 /* / Open Irekia */
 
-$greyButtonDark: #cfcfcf; 
-$blueTab: #CFCFCF;
+$greyButtonDark: #f6a21f; 
+$blueTab: #f6a21f;
 $greenTab: $colorIrekia;
 $greenParticipation: $colorIrekia;
 $blueGovern: #47bfea;
 
-$blueMenuLinks: #b13f00;
+$blueMenuLinks: #ffffff;
 $blueLinks: $colorIrekia;
 $blueLinksHover: #ff3105;
-$bgHover: #F1F4F5;
+$bgHover: #e8561f;  /*Cambio menú*/
 $bgNotModerated: #F7EAEE;
 
 $greyCollapsableHeader: #f2f5f9;
-$greyMainHome: #ededed;
+$greyMainHome: #f7f4f0;
 $greyBgLeading : #e7ecf2;
 $menuLinksHover: #EEEEEE;
 $greenFollowing : $greenParticipation;
