@@ -50,6 +50,7 @@
 }
 
 nav#nav_top{
+	display:none; /*Se oculto la barra de menú superior*/
 	@include opensans();
 	background-color: $blueDarkNav;
 	.navbar{
@@ -576,7 +577,7 @@ nav#nav_bottom{
 
 /******* FOOTER *******/
 footer {
-	background-image: url(image-path("ej-gv-logo-footer.jpg"));
+	background-image: url(image-path("#"));
 	background-position: 50% 25%;
 	background-repeat: no-repeat;
 	background-color: #f6a21f;
