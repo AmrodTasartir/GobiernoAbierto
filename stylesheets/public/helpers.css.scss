@@ -125,7 +125,7 @@ $player_window_height: 320px;
   color: $dark_blue;
   line-height: 31px;
   font-weight: 300;
-  font-family: "ClarendonLTMedium", Georgia, serif;
+  font-family: "Century Gothic", Georgia, serif;
 }
 
 @mixin input-text {
@@ -226,17 +226,17 @@ $inputHeight:                   $baseLineHeight + 10px; // base line-height + 8p
 @import url(http://fonts.googleapis.com/css?family=Oswald);
 
 @mixin opensans($size:14px ,$bold:normal){
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Century Gothic', sans-serif;
   font-size: $size;
   font-weight: $bold;
 }
 @mixin arial($size:14px ,$bold:normal){
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Century Gothic, Helvetica, sans-serif;
   font-size: $size;
   font-weight: $bold;
 }
 @mixin oswald($size:14px ,$bold:normal){
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Century Gothic', sans-serif;
   font-size: $size;
   font-weight: $bold;
 }
