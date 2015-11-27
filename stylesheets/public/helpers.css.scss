@@ -62,7 +62,8 @@ $player_window_height: 320px;
 }
 
 @mixin textShadow($h,$v,$c) {
-  text-shadow:$h $v $c;
+  /*text-shadow:$h $v $c;*/
+  text-shadow:none;
 }
 
 @mixin text-overflow() {
